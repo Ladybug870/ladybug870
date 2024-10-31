@@ -1,6 +1,6 @@
 <h1>Hi, I'm Shawanda, an <a href="https://linkedin.com/in/Shawanda">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2> Information Technology Projects:</h2>
 
 - <b>Remote Desktop Connection </b>
   - [Remote Desktop: Start up](https://github.com/ladybug870/Remote-desktop-startup)
