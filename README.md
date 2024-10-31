@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Remote Desktop </b>
+- <b>Remote Desktop Connection </b>
   - [Remote Desktop: Start up](https://github.com/ladybug870/Remote-desktop-startup)
   - [Remote Desktop: Connecting to a Virtual Machine](https://github.com/ladybug870/RD-virtual-machine)
  
