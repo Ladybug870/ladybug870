@@ -4,7 +4,7 @@
 
 - <b>Remote Desktop </b>
   - [Remote Desktop: Start up](https://github.com/ladybug870/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/ladybug870/post-install-config)
+  - [Remote Desktop: Connecting to a Virtual Machine](https://github.com/ladybug870/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ladybug870c/ticket-lifecycle)
 - <b>Virtual Machines</b>
   - [Creating a Virtual Machine on Azure](https://github.com/ladybug870/configure-ad)
