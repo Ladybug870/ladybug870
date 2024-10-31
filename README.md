@@ -8,7 +8,7 @@
  
 - <b>Virtual Machines</b>
   - [Creating a Virtual Machine on Azure](https://github.com/ladybug870/create-VM)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ladybug870/azure-network-protocols)
+ 
 
 
 
