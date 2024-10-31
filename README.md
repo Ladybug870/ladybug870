@@ -4,7 +4,7 @@
 
 - <b>Remote Desktop </b>
   - [Remote Desktop: Start up](https://github.com/ladybug870/Remote-desktop-startup)
-  - [Remote Desktop: Connecting to a Virtual Machine](https://github.com/ladybug870/post-install-config)
+  - [Remote Desktop: Connecting to a Virtual Machine](https://github.com/ladybug870/RD-virtual-machine)
  
 - <b>Virtual Machines</b>
   - [Creating a Virtual Machine on Azure](https://github.com/ladybug870/configure-ad)
