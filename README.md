@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Remote Desktop </b>
-  - [Remote Desktop: Start up](https://github.com/ladybug870/osticket-prereqs)
+  - [Remote Desktop: Start up](https://github.com/ladybug870/Remote-desktop-startup)
   - [Remote Desktop: Connecting to a Virtual Machine](https://github.com/ladybug870/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ladybug870c/ticket-lifecycle)
 - <b>Virtual Machines</b>
