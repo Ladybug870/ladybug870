@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/ladybug870/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ladybug870c/ticket-lifecycle)
 - <b>Virtual Machines</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ladybug870/configure-ad)
+  - [Creating a Virtual Machine on Azure](https://github.com/ladybug870/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ladybug870/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
