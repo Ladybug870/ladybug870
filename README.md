@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Remote Desktop (RD Windows)</b>
+- <b>Remote Desktop </b>
   - [Remote Desktop: Start up](https://github.com/ladybug870/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ladybug870/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ladybug870c/ticket-lifecycle)
